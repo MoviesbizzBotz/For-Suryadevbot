@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🤖HOW TO MAKE BOT🤖', url="https://youtu.be/arLXQscl4yo"
+                                    '✨OUR GROUP ✨', url="https://t.me/joinchat/mm9P7uDDH8Y0YTM1"
                                 )
                         ]
                     ]
@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developer', url='https://t.me/crizzbizzyt'),
+        InlineKeyboardButton('OUR GROUP', url='https://t.me/joinchat/mm9P7uDDH8Y0YTM1'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/MoviesbizzBotz/Auto-Filter-Bot-V2')
     ],[
         InlineKeyboardButton('Support Group🛠', url='https://t.me/moviesbizzbotz')
